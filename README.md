@@ -1,6 +1,6 @@
 # IndiaQuant MCP
 
-An MCP server that connects Claude to live Indian stock market data. Built for the IndiaQuant take-home assignment.
+An MCP server that connects Claude to live Indian stock market data.
 
 Once connected, you can ask Claude things like:
 - "Should I buy HDFC Bank right now?"
