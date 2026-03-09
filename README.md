@@ -11,6 +11,9 @@ Once connected, you can ask Claude things like:
 All 10 tools return live NSE/BSE data.
 
 ---
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/12f25879-506a-4d86-92ae-9882f75ba9a0" />
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/882c6a61-e8b7-4390-9eda-a17d310ca0ed" />
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/e32832f2-1b75-4353-b006-7115f9996fd1" />
 
 ## What's inside
 
