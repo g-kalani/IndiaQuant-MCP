@@ -69,6 +69,7 @@ Run the config helper:
 python generate_claude_config.py
 ```
 
+
 It prints the JSON to paste into your Claude Desktop config. The file location depends on how you installed Claude:
 
 - **Direct download**: `%APPDATA%\Claude\claude_desktop_config.json`
