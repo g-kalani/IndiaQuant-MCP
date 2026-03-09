@@ -8,7 +8,7 @@ Once connected, you can ask Claude things like:
 - "Find me oversold IT stocks"
 - "Buy 50 shares of Infosys with a stop loss at 1500"
 
-It actually works — all 10 tools return live NSE/BSE data.
+All 10 tools return live NSE/BSE data.
 
 ---
 
